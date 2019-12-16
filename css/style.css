@@ -96,6 +96,11 @@ section {
     margin: 0 auto;
 }
 
+.submenu {
+    display: none;
+    text-align: center;
+}
+
 .banner {
     padding-top: 150px;
 }
