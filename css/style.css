@@ -131,3 +131,9 @@ footer {
     font-weight: bolder;
     font-size: 12px;
 }
+
+/*mediaqeury*/
+
+@media ( min-width:0px) and ( max-width:500px) {
+    
+}
